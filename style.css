@@ -22,7 +22,7 @@ body {
 /* defining style for a single key */
 .key {
     border: 3px solid black;
-    border-radius: 3px;
+    border-radius: 5px;
     width: 60px;
     height: 60px;
     background-color: rgba(0, 0, 0, 0.4);
