@@ -12,6 +12,21 @@ body {
     font-family: Calibri, sans-serif;
 }
 
+/* styling top heading */
+.heading {
+    font-size: 70px;
+    color: rosybrown;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+/* using media queries to properly scale heading's font size */
+@media only screen and (max-width: 700px) {
+    .heading {
+        font-size: 50px;
+    }
+}
+
 /* defining style for a key container */
 .key-container {
     display: flex;
