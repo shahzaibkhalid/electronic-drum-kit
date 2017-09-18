@@ -28,6 +28,7 @@ body {
     background-color: rgba(0, 0, 0, 0.4);
     text-align: center;
     padding: 6px 12px;
+    margin: 15px;
 }
 
 /* defining style for a single alphabetical letter inside the key */
