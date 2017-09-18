@@ -31,6 +31,7 @@ body {
     padding: 6px 12px;
     margin: 15px;
     box-shadow: 0 0 1px rosybrown;
+    transition: all 0.6s ease-in-out;
 }
 
 /* defining style for a single alphabetical letter inside the key */
