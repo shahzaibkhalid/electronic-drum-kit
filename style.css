@@ -12,6 +12,13 @@ body {
     font-family: Calibri, sans-serif;
 }
 
+/* defining style for a key container */
+.key-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 /* defining style for a single key */
 .key {
     border: 3px solid black;
