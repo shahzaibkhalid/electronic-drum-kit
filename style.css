@@ -77,3 +77,19 @@ kbd {
     box-shadow: 0 0 2px rosybrown;
     border-color: rosybrown;
 }
+
+/* styling footer texts */
+.footer-personal {
+    text-align: center;
+    font-size: 20px;
+    color: rosybrown;
+}
+.footer-code-license {
+    text-align: center;
+    font-size: 14px;
+    color: rosybrown;
+}
+a {
+    color: #EECFCF;
+    text-decoration: none;
+}
