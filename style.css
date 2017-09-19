@@ -1,6 +1,6 @@
 /* setting full-screen responsive background image to page */
 html {
-    background-image: url('./images/drum-background.png');
+    background-image: url('./images/drum_background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
