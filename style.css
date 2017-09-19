@@ -60,3 +60,10 @@ kbd {
     color: white;
     font-size: 16px;
 }
+
+/* this class gets added to a key as it's being played */
+.playing {
+    transform: scale(1.2);
+    box-shadow: 0 0 2px rosybrown;
+    border-color: rosybrown;
+}
