@@ -20,6 +20,15 @@ body {
     text-align: center;
 }
 
+/* styling sub-heading */
+.sub-heading {
+    font-size: 45px;
+    color: rosybrown;
+    font-family: 'Amatic SC', sans-serif;
+    text-align: center;
+    margin-top: 0px;
+}
+
 /* using media queries to properly scale heading's font size */
 @media only screen and (max-width: 700px) {
     .heading {
