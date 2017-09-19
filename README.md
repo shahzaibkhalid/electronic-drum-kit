@@ -14,6 +14,6 @@ This is how the design looks like:
 You can play Electronic Drum Kit by clicking [here](https://shahzaibkhalid.github.io/electronic-drum-kit/)
 
 # License
-Electronic Drum Kit is licensed under the [MIT License]().
+Electronic Drum Kit is licensed under the [MIT License](https://github.com/shahzaibkhalid/electronic-drum-kit/blob/master/LICENSE.txt).
 
 Copyright (c) 2017 Shahzaib Khalid
