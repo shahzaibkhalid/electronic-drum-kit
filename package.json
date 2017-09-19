@@ -1,7 +1,7 @@
 {
   "name": "electronic-drum-kit",
   "version": "1.0.0",
-  "description": "An interactive, easy-to-use, electronic drum kit. This project is an attempt to provide an engaging and personal electronic drum kit that can be played through keyboard keys or by directly clicking or touching the keys.",
+  "description": "An interactive, close to real, drum playing experience, all using HTML, CSS &amp; JavaScript. This project is an attempt to provide an engaging and personal electronic drum kit that can be played through keyboard keys or by directly clicking or touching the keys.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
