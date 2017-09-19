@@ -10,10 +10,9 @@ Efforts have been made to make it minimal, more fun and insanely simple that a 3
 ## Design
 This is how the design looks like:
 ![Electronic Drum Kit](./images/electronic-drum-kit.png)
-Format: ![Electronic Drum Kit]
 
 ## Play
-You can play the drum kit by clicking [here](https://shahzaibkhalid.github.io/electronic-drum-kit/)
+You can play Electronic Drum Kit by clicking [here](https://shahzaibkhalid.github.io/electronic-drum-kit/)
 
 # License
 Electronic Drum Kit is licensed under the [MIT License]().
