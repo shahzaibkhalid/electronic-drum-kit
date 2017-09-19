@@ -46,6 +46,7 @@ body {
     padding: 6px 12px;
     margin: 15px;
     transition: all 0.06s ease;
+    cursor: pointer;
 }
 
 /* defining style for a single alphabetical letter inside the key */
