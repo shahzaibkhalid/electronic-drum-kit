@@ -9,7 +9,9 @@ Efforts have been made to make it minimal, more fun and insanely simple that a 3
 
 ## Design
 This is how the design looks like:
-![electronic drum kit](./images/electronic-drum-kit.png)
+![electronic drum kit](./images/drum-kit-1.png)
+![electronic drum kit](./images/drum-kit-2.png)
+![electronic drum kit](./images/drum-kit-3.png)
 ## Play
 You can play Electronic Drum Kit by clicking [here](https://shahzaibkhalid.github.io/electronic-drum-kit/)
 
