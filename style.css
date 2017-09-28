@@ -9,7 +9,7 @@ html {
 
 /* setting font of the whole body text */
 body {
-    font-family: Calibri, sans-serif;
+    font-family: 'Encode Sans Expanded', sans-serif;
 }
 
 /* styling top heading */
@@ -68,7 +68,7 @@ kbd {
 /* defining style for the sound word inside the key */
 .sound {
     color: white;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 /* this class gets added to a key as it's being played */
@@ -79,14 +79,17 @@ kbd {
 }
 
 /* styling footer texts */
+footer {
+    margin-top: 50px;
+}
 .footer-personal {
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
     color: rosybrown;
 }
 .footer-code-license {
     text-align: center;
-    font-size: 18px;
+    font-size: 14px;
     color: rosybrown;
 }
 a {
